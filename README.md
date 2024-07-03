@@ -14,3 +14,5 @@ Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campu
 ## FORMAÇÃO COMPLEMENTAR
 1. Clube de Libras\
 Carga horária: 40 horas.
+2. Palestra Prevenção da Gravidez Na Adolescência\
+Carga horária: 2 horas.
