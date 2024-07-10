@@ -15,7 +15,7 @@ Autualmente cursa Técnico de Nível Médio em Informática na forma Integrada -
 ## FORMAÇÃO COMPLEMENTAR
 1. Clube de Libras\
 Carga horária: 60 horas.
-> [Certificado 1](ANA\LUIZA.pdf)
+> [Certificado 1](ANA/LUIZA.pdf)
 3. Palestra Prevenção da Gravidez Na Adolescência\
 Carga horária: 2 horas.
 > [Certificado 2](ANA\LUIZA(1).pdf)
