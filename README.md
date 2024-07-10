@@ -17,5 +17,5 @@ Autualmente cursa Técnico de Nível Médio em Informática na forma Integrada -
 Carga horária: 60 horas.
 2. Palestra Prevenção da Gravidez Na Adolescência\
 Carga horária: 2 horas.
-3.Evento Alusivo ao Dia Nacional dos Povos Indígenas\
+3. Evento Alusivo ao Dia Nacional dos Povos Indígenas\
 Carga horária: 4 horas.
