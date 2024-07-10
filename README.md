@@ -18,5 +18,7 @@ Carga horária: 60 horas.
 > [Certificado 1](ANA LUIZA.pdf)
 3. Palestra Prevenção da Gravidez Na Adolescência\
 Carga horária: 2 horas.
+> [Certificado 2](ANA LUIZA(1).pdf)
 4. Evento Alusivo ao Dia Nacional dos Povos Indígenas\
 Carga horária: 4 horas.
+> [Certificado 3](ANA LUIZA CARANHA DA SILVA.pdf)
